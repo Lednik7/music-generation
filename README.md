@@ -14,3 +14,5 @@
 'game', 'themes', 'disney', 'themes', 'national', 'anthems', 'jazz',
 'hip-hop']
 ```
+
+Парсер работает быстро, найти можно [тут](https://github.com/Lednik7/music-generation/blob/main/music_parser.ipynb)
