@@ -15,4 +15,5 @@
 'hip-hop']
 ```
 
-Парсер работает быстро, найти можно [тут](https://github.com/Lednik7/music-generation/blob/main/music_parser.ipynb)
+Парсер работает быстро, найти можно [тут](https://github.com/Lednik7/music-generation/blob/main/music_parser.ipynb)\
+Примеры генерации (отобранные), можно найти [тут](https://github.com/Lednik7/music-generation/tree/main/examples)
